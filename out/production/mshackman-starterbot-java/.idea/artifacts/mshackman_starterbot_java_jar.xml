@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mshackman-starterbot-java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mshackman_starterbot_java_jar</output-path>
+    <root id="archive" name="mshackman-starterbot-java.jar">
+      <element id="module-output" name="mshackman-starterbot-java" />
+    </root>
+  </artifact>
+</component>
